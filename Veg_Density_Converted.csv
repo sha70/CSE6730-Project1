@@ -1,0 +1,42 @@
+EVC,P_Den,Description,,,,,,EVT,Veg_type,Description
+108,0.8,Tree Cover >= 80 and < 90%,,,,,,3315,3,Southern Appalachian Oak Forest
+107,0.7,Tree Cover >= 70 and < 80%,,,,,,3533,3,Ruderal Forest-Southeast Hardwood and Conifer
+25,0,Developed-Roads,,,,,,3353,3,Southern Appalachian Low-Elevation Pine Forest
+105,0.5,Tree Cover >= 50 and < 60%,,,,,,3352,3,Southern Appalachian Montane Pine Forest and Woodland
+129,0.9,Herb Cover >= 90 and <= 100%,,,,,,3299,0,Developed-Roads
+103,0.3,Tree Cover >= 30 and < 40%,,,,,,3318,3,Southern and Central Appalachian Cove Forest
+106,0.6,Tree Cover >= 60 and < 70%,,,,,,3472,3,Central Interior and Appalachian Riparian Forest
+14,0,#N/A,,,,,,3375,3,Eastern Serpentine Woodland
+13,0,#N/A,,,,,,3320,3,Central and Southern Appalachian Montane Oak Forest
+15,0,#N/A,,,,,,3182,2,Introduced Upland Vegetation-Perennial Grassland and Forbland
+116,0.6,Shrub Cover >= 60 and < 70%,,,,,,3977,1,Eastern Cool Temperate Pasture and Hayland
+104,0.4,Tree Cover >= 40 and < 50%,,,,,,3535,1,Managed Tree Plantation-Southeast Conifer and Hardwood Plantation Group
+64,0.5,NASS-Row Crop,,,,,,3906,3,Eastern Cool Temperate Urban Evergreen Forest
+111,0.1,Shrub Cover >= 10 and < 20%,,,,,,3905,3,Eastern Cool Temperate Urban Deciduous Forest
+16,0,#N/A,,,,,,3907,3,Eastern Cool Temperate Urban Mixed Forest
+115,0.5,Shrub Cover >= 50 and < 60%,,,,,,3933,2,Eastern Cool Temperate Developed Ruderal Shrubland
+121,0.1,Herb Cover >= 10 and < 20%,,,,,,3974,1,Eastern Cool Temperate Row Crop
+123,0.3,Herb Cover >= 30 and < 40%,,,,,,3908,2,Eastern Cool Temperate Urban Herbaceous
+17,0,#N/A,,,,,,3930,2,Eastern Cool Temperate Developed Ruderal Deciduous Forest
+113,0.3,Shrub Cover >= 30 and < 40%,,,,,,3934,2,Eastern Cool Temperate Developed Ruderal Grassland
+122,0.2,Herb Cover >= 20 and < 30%,,,,,,3909,2,Eastern Cool Temperate Urban Shrubland
+127,0.7,Herb Cover >= 70 and < 80%,,,,,,3556,3,Central Appalachian Rocky Oak Woodland
+119,0.9,Shrub Cover >= 90 and <= 100%,,,,,,3191,2,Recently Logged-Herb and Grass Cover
+128,0.8,Herb Cover >= 80 and < 90%,,,,,,3377,3,Central Appalachian Rocky Pine Woodland
+118,0.8,Shrub Cover >= 80 and < 90%,,,,,,3978,1,Eastern Cool Temperate Wheat
+112,0.2,Shrub Cover >= 20 and < 30%,,,,,,3292,0,Open Water
+101,0.1,Tree Cover >= 10 and < 20%,,,,,,3557,3,Central Appalachian Rocky Pine-Oak Woodland
+124,0.4,Herb Cover >= 40 and < 50%,,,,,,3970,2,Eastern Cool Temperate Orchard
+102,0.2,Tree Cover >= 20 and < 30%,,,,,,3976,1,Eastern Cool Temperate Fallow/Idle Cropland
+109,0.9,Tree Cover >= 90 and <= 100%,,,,,,3931,3,Eastern Cool Temperate Developed Ruderal Evergreen Forest
+114,0.4,Shrub Cover >= 40 and < 50%,,,,,,3932,3,Eastern Cool Temperate Developed Ruderal Mixed Forest
+68,0,#N/A,,,,,,3471,3,Central Interior and Appalachian Floodplain Forest
+11,0,#N/A,,,,,,3319,2,Central Interior and Appalachian Riparian Shrubland
+125,0.5,Herb Cover >= 50 and < 60%,,,,,,3297,0,Developed-Medium Intensity
+23,0,#N/A,,,,,,3296,0,Developed-Low Intensity
+22,0,#N/A,,,,,,3294,0,Barren
+31,0,#N/A,,,,,,3300,2,Central Interior and Appalachian Riparian Herbaceous
+63,0,#N/A,,,,,,3973,1,Eastern Cool Temperate Row Crop - Close Grown Crop
+117,0.7,Shrub Cover >= 70 and < 80%,,,,,,3275,2,Central Interior and Appalachian Floodplain Shrubland
+,,,,,,,,3195,2,Recently Burned-Herb and Grass Cover
+,,,,,,,,3997,1,Eastern Warm Temperate Pasture and Hayland
